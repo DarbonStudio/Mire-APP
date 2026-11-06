@@ -22,3 +22,4 @@ Dans Figma et dans le code, les styles de textes doivent être nommés et struct
 ## 3. Gestion des Assets & Pictogrammes
 - **Vectoriel Uniquement (`.SVG`)** : Toute la signalétique d'effort (Attaque, Bloc, Défense, Service, Passe) doit être conçue en formes géométriques pures et exportée/maquettée en format `.SVG`.
 - **Fonds Dynamiques** : Utiliser les courbes abstraites inspirées du "M" du logotype pour habiller l'interface sans alourdir le design avec des photos complexes.
+

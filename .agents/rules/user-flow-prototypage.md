@@ -16,3 +16,4 @@ Le prototypage doit refléter le diagramme du User Flow défini. Les écrans cl�
 ## 2. Minimalisme & Éco-conception UI
 - **Animations** : Dans les prototypes Figma et le code, bannir les animations superflues (Smart Animate complexe) qui ne servent qu'à décorer. N'animer que les transitions d'état ayant une fonction ergonomique pour guider l'œil (ex: apparition d'un feedback de correction).
 - **Data-Ink Ratio** : Supprimer tous les éléments visuels non essentiels (ombres portées inutiles, dégradés superflus, fioritures). L'écran d'entraînement doit tendre vers le noir absolu pour économiser l'énergie de l'appareil (écrans OLED).
+

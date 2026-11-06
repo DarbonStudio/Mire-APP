@@ -17,3 +17,4 @@ alwaysApply: true
 ## 3. Hyper-Adaptabilité Logistique (Pratiquant de l'Extrême)
 - **Objectif** : Adapter instantanément l'application au matériel très précaire du joueur extérieur (ex: juste un ballon et un mur).
 - **Prototypage Figma / UI** : L'Onboarding (premier lancement) doit imposer un écran de filtrage matériel (Setup: Mur + ballon, Filet, etc.). Le User Flow ne doit générer qu'un programme 100% viable selon ce choix, sous peine de provoquer l'abandon immédiat de l'utilisateur.
+
